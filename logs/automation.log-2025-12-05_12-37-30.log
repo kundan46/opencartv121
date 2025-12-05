@@ -1,0 +1,11 @@
+2025-12-05 12:37:30.800 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/kundan/eclipse-workspace/opencartv121/grouping.xml
+
+2025-12-05 12:37:46.143 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-05 12:37:46.596 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link  ****
+2025-12-05 12:37:47.225 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link  ****
+2025-12-05 12:37:47.235 INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer details  ****
+2025-12-05 12:37:49.495 INFO  testCases.TC001_AccountRegistrationTest - **** Validating Expected message  ****
+2025-12-05 12:37:49.586 INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ******
+2025-12-05 12:37:53.785 INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest *****
+2025-12-05 12:37:55.397 INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ******

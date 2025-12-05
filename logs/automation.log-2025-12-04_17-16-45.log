@@ -1,0 +1,15 @@
+2025-12-04 17:16:45.532 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/kundan/eclipse-workspace/opencartv121/crossbrowsertesting.xml
+
+2025-12-04 17:16:54.498 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-04 17:16:54.665 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link  ****
+2025-12-04 17:16:55.317 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link  ****
+2025-12-04 17:16:55.322 INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer details  ****
+2025-12-04 17:16:57.217 INFO  testCases.TC001_AccountRegistrationTest - **** Validating Expected message  ****
+2025-12-04 17:16:57.336 INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ******
+2025-12-04 17:17:26.360 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-04 17:17:27.539 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link  ****
+2025-12-04 17:17:29.198 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link  ****
+2025-12-04 17:17:29.200 INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer details  ****
+2025-12-04 17:17:32.853 INFO  testCases.TC001_AccountRegistrationTest - **** Validating Expected message  ****
+2025-12-04 17:17:33.092 INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ******

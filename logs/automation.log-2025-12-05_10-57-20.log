@@ -1,0 +1,37 @@
+2025-12-05 10:57:20.755 WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [/home/kundan/eclipse-workspace/opencartv121/crossbrowsertesting2with5nodes.xml] otherwise TestNG may fail or not work as expected.
+2025-12-05 10:57:21.037 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/kundan/eclipse-workspace/opencartv121/crossbrowsertesting2with5nodes.xml
+
+2025-12-05 10:58:26.222 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-05 10:58:27.024 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-05 10:58:27.620 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-05 10:58:29.261 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link  ****
+2025-12-05 10:58:29.504 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link  ****
+2025-12-05 10:58:29.579 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link  ****
+2025-12-05 10:58:31.541 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link  ****
+2025-12-05 10:58:31.628 INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer details  ****
+2025-12-05 10:58:31.661 ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+2025-12-05 10:58:41.671 ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+2025-12-05 10:58:43.313 ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+2025-12-05 10:58:54.945 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-05 10:58:56.624 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link  ****
+2025-12-05 10:58:59.579 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link  ****
+2025-12-05 10:58:59.580 INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer details  ****
+2025-12-05 10:59:09.905 INFO  testCases.TC001_AccountRegistrationTest - **** Validating Expected message  ****
+2025-12-05 10:59:10.258 INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ******
+2025-12-05 10:59:12.102 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-05 10:59:12.375 ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+2025-12-05 10:59:19.358 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-05 10:59:21.094 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link  ****
+2025-12-05 10:59:22.040 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link  ****
+2025-12-05 10:59:22.041 INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer details  ****
+2025-12-05 10:59:27.203 INFO  testCases.TC001_AccountRegistrationTest - **** Validating Expected message  ****
+2025-12-05 10:59:27.299 INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ******
+2025-12-05 11:00:22.027 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-05 11:00:22.041 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-05 11:00:22.045 ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+2025-12-05 11:00:22.038 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-05 11:00:22.050 ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+2025-12-05 11:00:22.022 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-05 11:00:22.061 ERROR testCases.TC001_AccountRegistrationTest - Test Failed....
+2025-12-05 11:00:22.066 ERROR testCases.TC001_AccountRegistrationTest - Test Failed....

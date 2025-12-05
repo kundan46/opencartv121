@@ -1,0 +1,8 @@
+2025-12-05 12:41:51.179 INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest *****
+2025-12-05 12:41:53.338 INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ******
+2025-12-05 12:41:57.710 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-05 12:41:57.837 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on My Account Link  ****
+2025-12-05 12:41:58.359 INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link  ****
+2025-12-05 12:41:58.361 INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer details  ****
+2025-12-05 12:42:00.273 INFO  testCases.TC001_AccountRegistrationTest - **** Validating Expected message  ****
+2025-12-05 12:42:00.351 INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ******

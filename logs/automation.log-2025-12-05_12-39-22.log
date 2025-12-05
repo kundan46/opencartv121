@@ -1,0 +1,3 @@
+2025-12-05 12:39:23.411 INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest *****
+2025-12-05 12:39:23.495 INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *******
+2025-12-05 12:39:23.496 ERROR testCases.TC001_AccountRegistrationTest - Test Failed....

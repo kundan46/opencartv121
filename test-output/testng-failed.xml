@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="10" parallel="tests" name="Failed suite [ParallelSuite]">
+  <test thread-count="10" parallel="tests" name="ChromeTest1(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="verify_account_registration"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- ChromeTest1(failed) -->
+  <test thread-count="10" parallel="tests" name="ChromeTest2(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="verify_account_registration"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- ChromeTest2(failed) -->
+  <test thread-count="10" parallel="tests" name="FirefoxTest1(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="verify_account_registration"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- FirefoxTest1(failed) -->
+  <test thread-count="10" parallel="tests" name="FirefoxTest4(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="verify_account_registration"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- FirefoxTest4(failed) -->
+  <test thread-count="10" parallel="tests" name="ChromeTest5(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="verify_account_registration"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- ChromeTest5(failed) -->
+  <test thread-count="10" parallel="tests" name="FirefoxTest3(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="verify_account_registration"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- FirefoxTest3(failed) -->
+  <test thread-count="10" parallel="tests" name="FirefoxTest2(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="verify_account_registration"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- FirefoxTest2(failed) -->
+  <test thread-count="10" parallel="tests" name="ChromeTest4(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="verify_account_registration"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- ChromeTest4(failed) -->
+  <test thread-count="10" parallel="tests" name="FirefoxTest5(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="verify_account_registration"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- FirefoxTest5(failed) -->
+  <test thread-count="10" parallel="tests" name="ChromeTest3(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="verify_account_registration"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- ChromeTest3(failed) -->
+</suite> <!-- Failed suite [ParallelSuite] -->
